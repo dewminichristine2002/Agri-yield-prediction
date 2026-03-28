@@ -1,3 +1,8 @@
+### Jupyter Notebook
+# Ignore checkpoint folders created by Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
 ### Windows
 # Windows thumbnail cache files
 Thumbs.db
