@@ -1,3 +1,7 @@
+### Jupyter Notebooks
+# Exclude notebook checkpoint folders
+.ipynb_checkpoints/
+
 ### Windows
 # Windows thumbnail cache files
 Thumbs.db
@@ -10,3 +14,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+### Data folder - keep tracked
+# data/ folder is intentionally tracked (do NOT add data/ here)
